@@ -16,25 +16,23 @@ keywords:
   - community-and-society
   - cygnet
 description: "Australia's most trusted source of local, national and world news. Comprehensive, independent, in-depth analysis, the latest business, sport, weather and more."
-datePublished: '2016-03-05T09:43:25.046Z'
-dateModified: '2016-03-05T09:43:07.586Z'
+datePublished: '2016-03-05T22:54:47.806Z'
+dateModified: '2016-03-05T22:54:45.890Z'
 author: []
 related: []
 app_links: []
 title: Cygnet News
+sourcePath: _posts/2016-03-05-cygnet-news.md
+published: true
 authors: []
 publisher:
   name: ABC News
   domain: mobile.abc.net.au
   url: 'http://mobile.abc.net.au'
   favicon: 'http://mobile.abc.net.au/favicon.ico'
-sourcePath: _posts/2016-03-05-cygnet-news.md
-published: true
 url: cygnet-news/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Cygnet | ABC News</h1><p>Australia's most trusted source of local, national and world news. Comprehensive, independent, in-depth analysis, the latest business, sport, weather and more.</p><img src="http://www.abc.net.au/news/linkableblob/6072216/data/abc-news.jpg?2" /></article>
-
-###
+<article style=""><h1>Cygnet News | ABC News</h1><p>Australia's most trusted source of local, national and world news. Comprehensive, independent, in-depth analysis, the latest business, sport, weather and more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ce83728696714e9661016de682398beccdfa9b4.jpg" /></article>
