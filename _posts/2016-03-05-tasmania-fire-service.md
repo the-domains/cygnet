@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.fire.tas.gov.au'
-  name: Tasmania Fire Service
-  favicon: 'http://www.fire.tas.gov.au/images/TFS-Logo.png'
-  domain: www.fire.tas.gov.au
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: true
 keywords: []
 description: 'Information for Tasmania on alerts, total fire bans, fire danger ratings, fire restrictions.'
+datePublished: '2016-03-05T22:38:14.401Z'
+dateModified: '2016-03-05T22:38:13.050Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.fire.tas.gov.au/Show?pageId=colGMapBushfires'
 title: Tasmania Fire Service
-datePublished: '2016-03-05T09:00:07.168Z'
-dateModified: '2016-03-05T07:20:55.768Z'
 sourcePath: _posts/2016-03-05-tasmania-fire-service.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Tasmania Fire Service
+  domain: www.fire.tas.gov.au
+  url: 'http://www.fire.tas.gov.au'
+  favicon: 'http://www.fire.tas.gov.au/images/TFS-Logo.png'
+url: tasmania-fire-service/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
