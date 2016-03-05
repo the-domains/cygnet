@@ -4,8 +4,19 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 22:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 22:13:31 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cygnet]]></title>
+            <description><![CDATA[<article><h1>Cygnet</h1><p>Cygnet was named by d'Entrecasteaux in 1793, after the swans he saw there. William Nichols was the first permanent settler in the Huon, receiving his land grant at Cygnet in 1829, and the 1842 census showed 17 people living in the area. In the 1840s convict probation stations were established at Port Cygnet, Lymington, Nicholls Rivulet and Huon Island, and 333 convicts were stationed in the district.
+
+More settlers arrived, and from the 1850s fruit-growing, timber-getting, coal mining (at Gardners Bay) and boat-building by John Wilson and Sons supported the district. The town of Lovett was proclaimed in 1862 (renamed Cygnet in 1915), churches and schools were built, and aregatta was held annually from 1863 until the 1950s. One jam manufacturer, and later one apple-drying, canning and juice factory and two canning-only factories provided employment; one, community-owned, still operates. From the 1970s many alternative-lifestylers moved to Cygnet, which in 2004 had a population of about 3000.
+
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ac069c82d7cbefefc1611d476ba9889b5c08148.jpg"></article>]]></description>
+            <link>http://www.utas.edu.au/library/companion_to_tasmanian_history/C/Cygnet.htm</link>
+            <guid isPermaLink="false">f699155f-aa68-47cd-8a3b-1109adb736bb</guid>
+            <pubDate>Sat, 05 Mar 2016 22:13:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Red Velvet Lounge]]></title>
             <description><![CDATA[<article><h1>Red Velvet Lounge</h1><p>Superior Tasmanian Country Cafe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78949031587be560d15936577d906a58a257aadd.jpg"></article>]]></description>
@@ -19,6 +30,13 @@
             <link>http://d1g1tal.agency/digital-agency/</link>
             <guid isPermaLink="false">17078a8f-30a1-4996-9f81-8bc7349e45a3</guid>
             <pubDate>Sat, 05 Mar 2016 22:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Huon Valley Council]]></title>
+            <description><![CDATA[<article><h1>Huon Valley Council</h1><p>The Huon Valley Council is the southernmost local government area in Australia. The area retains the beauty, charm and heritage of a bygone era, yet it is only a 30-minute drive from Hobart. The main townships are Huonville, Franklin, Cygnet, Geeveston and Dover.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca4663b9bbc90c4e309a2279347b6a520da1a6f0.jpg"></article>]]></description>
+            <link>http://www.huonvalley.tas.gov.au/</link>
+            <guid isPermaLink="false">51812069-c259-4cf3-b788-3717e12eae0d</guid>
+            <pubDate>Sat, 05 Mar 2016 22:12:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Brief History of Cygnet, Tasmania by Jean Cockerill.]]></title>
@@ -61,20 +79,6 @@
             <link>http://www.huonvalleydirectory.com.au/</link>
             <guid isPermaLink="false">f67a9433-3a3e-414d-a564-c1f07b4159bc</guid>
             <pubDate>Sat, 05 Mar 2016 11:10:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Overview]]></title>
-            <description><![CDATA[<article><h1>Overview</h1><p>Inspired by the famous Spanish El Camino of St James this two day pilgrim walk will take you through the scenic and peaceful Huon Valley to a celebration at the Spanish mission styled Church of St James, nestled in the heart of Cygnet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b15d77ffa4660ec454ec277d0ac357e4034e16d.jpg"></article>]]></description>
-            <link>http://www.waytostjames.com.au/</link>
-            <guid isPermaLink="false">eb089ce8-3b32-4ec6-b86e-d3bf6290caf0</guid>
-            <pubDate>Sat, 05 Mar 2016 11:10:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cygnet News]]></title>
-            <description><![CDATA[<article><h1></h1><p>Australia's most trusted source of local, national and world news. Comprehensive, independent, in-depth analysis, the latest business, sport, weather and more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ce83728696714e9661016de682398beccdfa9b4.jpg"></article>]]></description>
-            <link>http://cygnet.online/cygnet-news/index.html</link>
-            <guid isPermaLink="false">d402b098-5047-45c3-986c-1267e0898a70</guid>
-            <pubDate>Sat, 05 Mar 2016 09:43:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
