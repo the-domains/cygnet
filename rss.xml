@@ -4,8 +4,15 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 22:54:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 23:03:50 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to cygnet.online</p>]]></description>
+            <link>http://cygnet.online/06fbad94-519e-44ee-a29a-9d25d109279a/index.html</link>
+            <guid isPermaLink="false">06fbad94-519e-44ee-a29a-9d25d109279a</guid>
+            <pubDate>Sat, 05 Mar 2016 23:02:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tasmania Fire Service]]></title>
             <description><![CDATA[<article><h1>Tasmania Fire Service</h1><p>Information for Tasmania on alerts, total fire bans, fire danger ratings, fire restrictions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4ba5ff58f9acbc2dd4ab5f4c32a0d7f9cdbbf88.png"></article>]]></description>
@@ -72,13 +79,6 @@ More settlers arrived, and from the 1850s fruit-growing, timber-getting, coal�
             <link>http://tww.id.au/cygnet/history.html</link>
             <guid isPermaLink="false">63c2ebd0-e23e-4aef-9496-04d00436bdf6</guid>
             <pubDate>Sat, 05 Mar 2016 22:10:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Port Cygnet Sailing Club Tasmania]]></title>
-            <description><![CDATA[<article><h1>Port Cygnet Sailing Club Tasmania</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a756ddaaa656d93385d4592a4881b963da339baa.png"></article>]]></description>
-            <link>http://www.cygnetsailing.org.au/Port_Cygnet_Sailing_Club/Welcome.html</link>
-            <guid isPermaLink="false">1ec7b1c9-6a87-49f1-baf8-8ff8dcfba515</guid>
-            <pubDate>Sat, 05 Mar 2016 22:09:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
