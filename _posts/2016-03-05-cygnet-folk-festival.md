@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.cygnetfolkfestival.org/'
 title: Cygnet Folk Festival
-datePublished: '2016-03-05T07:27:38.305Z'
-dateModified: '2016-03-05T06:41:34.534Z'
+datePublished: '2016-03-05T07:40:26.416Z'
+dateModified: '2016-03-05T06:38:52.507Z'
 sourcePath: _posts/2016-03-05-cygnet-folk-festival.md
 published: true
 inFeed: true
