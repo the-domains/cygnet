@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[cygnet]]></title>
         <description><![CDATA[cygnet]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cygnet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 07:27:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 07:27:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cygnet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Near and Far, Cygnet Tasmania | Retailers of Tasmanian and global handcrafts, fair trade gifts, hemp and eco clothing, accessories and products]]></title>
+            <description><![CDATA[<article><h1>Near and Far, Cygnet Tasmania | Retailers of Tasmanian and global handcrafts, fair trade gifts, hemp and eco clothing, accessories and products</h1><p>Retailers of Tasmanian and global handcrafts, fair trade gifts, hemp and eco clothing / accessories and products. 30 Mary Street, Cygnet Tasmania 7112</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/daaaa3bcdb8c27413c1d652801e3d5a6178661d2.gif"></article>]]></description>
+            <link>http://www.nearandfar.com.au/</link>
+            <guid isPermaLink="false">eb810610-fb84-4292-a655-24a76d80ae67</guid>
+            <pubDate>Sat, 05 Mar 2016 07:26:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cygnet - Huon Valley Visitor Centre]]></title>
+            <description><![CDATA[<article><h1>Cygnet - Huon Valley Visitor Centre</h1><p>The small country town of Cygnet is well known for its creative community and beautiful scenic location in the sheltered Port Cygnet Bay. Situated just 15 minutes drive from Huonville or 50 minutes from Hobart following the D'Entrecasteaux Channel around, either way you will enjoy the scenic drive in this picturesque area.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a18c93b3099840886d1bd552693a98f0819fa0dc.jpg"></article>]]></description>
+            <link>http://huonvalleyvisitorcentre.com.au/p/destinations/towns/cygnet#.VtqDNMs7ZnE</link>
+            <guid isPermaLink="false">a3bfea8d-0533-4de0-bee2-21673a0d5596</guid>
+            <pubDate>Sat, 05 Mar 2016 07:26:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Port Cygnet Scout Group]]></title>
             <description><![CDATA[<article><h1>Port Cygnet Scout Group</h1><p>Saturday 25th April 2015 The Port Cygnet Scouts again facilitated the Dawn Service this year at the Cygnet Cenotaph. The 100 year commemorations commenced with a vigil of the Cenotaph from 6:00pm-6:00am by members of the Scout Group and members of the community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f96d2e61cd2683081eb77708a32d6e9cf9e9d76.jpg"></article>]]></description>
