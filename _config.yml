@@ -23,7 +23,7 @@ color:
     - '#918b8b'
     - '#cadad0'
   brandStrength: 0.125
-  lightness: 0.8125
+  lightness: 0.625
   saturation: 0.1875
   rhythmicContrast: 0.80921
 purpose:
