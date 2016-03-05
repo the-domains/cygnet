@@ -4,11 +4,18 @@
         <description><![CDATA[cygnet]]></description>
         <link>https://thegrid.ai/cygnet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 09:01:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 09:01:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cygnet/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Tasmania Fire Service]]></title>
+            <description><![CDATA[<article><h1>Tasmania Fire Service</h1><p>Information for Tasmania on alerts, total fire bans, fire danger ratings, fire restrictions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4ba5ff58f9acbc2dd4ab5f4c32a0d7f9cdbbf88.png"></article>]]></description>
+            <link>http://www.fire.tas.gov.au/Show?pageId=colGMapBushfires</link>
+            <guid isPermaLink="false">38f4c329-04b5-4f6e-a10a-e23d1437123e</guid>
+            <pubDate>Sat, 05 Mar 2016 09:00:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Home - Huon Valley Council]]></title>
-            <description><![CDATA[<article><h1>Home - Huon Valley Council</h1><p>The Huon Valley Council is the southernmost local government area in Australia. The area retains the beauty, charm and heritage of a bygone era, yet it is only a 30-minute drive from Hobart. The main townships are Huonville, Franklin, Cygnet, Geeveston and Dover.</p><img src="http://www.huonvalley.tas.gov.au/wp-content/uploads/2014/09/Huon_hero.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Home - Huon Valley Council</h1><p>The Huon Valley Council is the southernmost local government area in Australia. The area retains the beauty, charm and heritage of a bygone era, yet it is only a 30-minute drive from Hobart. The main townships are Huonville, Franklin, Cygnet, Geeveston and Dover.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca4663b9bbc90c4e309a2279347b6a520da1a6f0.jpg"></article>]]></description>
             <link>http://www.huonvalley.tas.gov.au/</link>
             <guid isPermaLink="false">51812069-c259-4cf3-b788-3717e12eae0d</guid>
             <pubDate>Sat, 05 Mar 2016 08:59:02 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.tranquilpoint.com/</link>
             <guid isPermaLink="false">25c53061-3603-4483-982a-bc060fe2a912</guid>
             <pubDate>Sat, 05 Mar 2016 08:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet Lounge]]></title>
-            <description><![CDATA[<article><h1>Red Velvet Lounge</h1><p>Superior Tasmanian Country Cafe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78949031587be560d15936577d906a58a257aadd.jpg"></article>]]></description>
-            <link>http://www.redvelvetlounge.com.au/</link>
-            <guid isPermaLink="false">318deb2e-5f76-4e6f-bd1b-1e643a52fd59</guid>
-            <pubDate>Sat, 05 Mar 2016 08:57:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
