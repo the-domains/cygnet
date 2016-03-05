@@ -4,7 +4,7 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 23:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 23:18:04 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -53,6 +53,13 @@ More settlers arrived, and from the 1850s fruit-growing, timber-getting, coal�
             <pubDate>Sat, 05 Mar 2016 22:52:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Peregrine School]]></title>
+            <description><![CDATA[<article><h1>Peregrine School</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b134f8f563ce847627441b0e0c2baabf79af3b0b.jpg"></article>]]></description>
+            <link>http://www.peregrine.tas.edu.au/</link>
+            <guid isPermaLink="false">8ba428b0-102f-45c0-8a83-8d46dfdcca39</guid>
+            <pubDate>Sat, 05 Mar 2016 23:18:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[#cygnet * Instagram photos and videos]]></title>
             <description><![CDATA[<article><h1>#cygnet * Instagram photos and videos</h1><p>Photos and videos with the hashtag 'cygnet' on Instagram</p></article>]]></description>
             <link>https://www.instagram.com/explore/tags/cygnet/</link>
@@ -72,13 +79,6 @@ More settlers arrived, and from the 1850s fruit-growing, timber-getting, coal�
             <link>http://cygnet.online/cygnet-news/index.html</link>
             <guid isPermaLink="false">d402b098-5047-45c3-986c-1267e0898a70</guid>
             <pubDate>Sat, 05 Mar 2016 23:03:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#cygnet]]></title>
-            <description><![CDATA[<article><h1>#cygnet</h1><p>The latest Tweets on #cygnet. Read what people are saying and join the conversation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46fb63332b75732e84ced05f5527162878c3e3b6.png"></article>]]></description>
-            <link>http://cygnet.online/cygnet/index.html</link>
-            <guid isPermaLink="false">a3b99d41-e174-4866-a4f0-152b4092e385</guid>
-            <pubDate>Sat, 05 Mar 2016 22:54:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
