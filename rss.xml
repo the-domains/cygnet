@@ -4,8 +4,15 @@
         <description><![CDATA[cygnet.online]]></description>
         <link>https://thegrid.ai/cygnet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 07:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 07:37:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cygnet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photos of Cygnet - Featured Images]]></title>
+            <description><![CDATA[<article><h1>Photos of Cygnet - Featured Images</h1><p>Photos of Cygnet from TripAdvisor</p><img src="http://static.tacdn.com/img2/postimg.jpg"></article>]]></description>
+            <link>http://www.tripadvisor.com/LocationPhotos-g504289-Cygnet_Tasmania.html</link>
+            <guid isPermaLink="false">bec413ec-e046-4396-83e1-d10e13e467aa</guid>
+            <pubDate>Sat, 05 Mar 2016 07:36:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cygnet Demographics (TAS) Local Stats]]></title>
             <description><![CDATA[<article><h1>Cygnet Demographics (TAS) Local Stats</h1><p>Cygnet Demographics - Get localstats and demographic information for Cygnet in Tasmania, (TAS) Tasmania - Qpzm LocalStats</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f3a053c1ee5b282a00b9e4ff0b89c7c403b81c1.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Cygnet Forecast</h1><p>Cloudy. Slight (30%) chance of drizzle near the coast early morning, then a high (70%) chance of rain developing in the evening. Winds west to northwesterly 15 to 20 km/h shifting south to southeasterly 20 to 30 km/h in the afternoon. Overnight temperatures falling to between 9 and 14 with daytime temperatures reaching between 19 and 24.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad8f8e91668141791e81a0af427771af8fba40b5.png"></article>]]></description>
             <link>http://www.bom.gov.au/tas/forecasts/cygnet.shtml</link>
             <guid isPermaLink="false">bb6bf82f-dd0c-4e1e-89b2-b21bfa65ce98</guid>
-            <pubDate>Sat, 05 Mar 2016 07:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Huon Valley - Cygnet - Dover - Geeveston - Huonville]]></title>
-            <description><![CDATA[<article><h1>Huon Valley - Cygnet - Dover - Geeveston - Huonville</h1><p>Back : Huon Valley - Cygnet - Dover - Geeveston - Huonville Bookings are not required. Ensure you are at the bus stop 10 minutes prior to departure and hail the driver. Service operates 7 days a week - 12 services Monday to Friday and 6 services on Saturday and Sunday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/518520b9a5e714d6cdada67b54da19d4fd031bf8.jpg"></article>]]></description>
-            <link>http://www.tassielink.com.au/timetables/huon-valley-hobart-cygnet-dover</link>
-            <guid isPermaLink="false">6231375f-aedf-4930-956e-f12d639cfd66</guid>
             <pubDate>Sat, 05 Mar 2016 07:28:29 GMT</pubDate>
         </item>
     </channel>
