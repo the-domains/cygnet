@@ -16,9 +16,9 @@ keywords:
   - aeski
   - '1118'
   - tas
-description: '© Copyright 2009 Peregrine School | 1118 Nicholls Rivulet Road, Nicholls Rivulet Tasmania 7112 | admin@peregrine.tas.edu.au | 03 6295 1300'
-datePublished: '2016-03-05T22:14:40.300Z'
-dateModified: '2016-03-05T22:14:39.433Z'
+description: "Peregrine is a small community school in Southern Tasmania providing a unique experience in education.  Peregrine provides an intimate and creative learning environment that integrates family and community in your child's learning journey."
+datePublished: '2016-03-05T22:38:50.967Z'
+dateModified: '2016-03-05T22:38:42.838Z'
 author: []
 related: []
 app_links: []
