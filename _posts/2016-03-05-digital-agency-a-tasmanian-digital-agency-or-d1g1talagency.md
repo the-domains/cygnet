@@ -9,10 +9,10 @@ related:
     thumbnail_url: 'http://marketingland.com/wp-content/ml-loads/2014/07/google-plus-logo2-1920.jpg'
     thumbnail_width: 1920
 publisher:
-  url: 'http://d1g1tal.agency'
   name: Digital Agency
-  favicon: 'http://i1.wp.com/d1g1tal.agency/wp-content/uploads/2015/04/cropped-Google-Partner-Badge.png?fit=192%2C192'
   domain: d1g1tal.agency
+  url: 'http://d1g1tal.agency'
+  favicon: 'http://i1.wp.com/d1g1tal.agency/wp-content/uploads/2015/04/cropped-Google-Partner-Badge.png?fit=192%2C192'
 keywords:
   - google
   - partnering
@@ -29,13 +29,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://d1g1tal.agency/digital-agency/'
 title: 'Digital Agency, a Tasmanian Digital Agency. | d1g1tal.agency'
-datePublished: '2016-03-05T12:35:55.374Z'
-dateModified: '2016-03-05T12:23:43.965Z'
+datePublished: '2016-03-05T22:08:00.768Z'
+dateModified: '2016-03-05T22:07:50.644Z'
 sourcePath: _posts/2016-03-05-digital-agency-a-tasmanian-digital-agency-or-d1g1talagency.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
