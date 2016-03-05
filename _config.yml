@@ -1,4 +1,20 @@
-analytics: {}
+name: cygnet
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.127467
+title: 'cygnet.online | all the things in Cygnet, Tasmania'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#0a0a08'
@@ -8,12 +24,9 @@ color:
     - '#cadad0'
   brandStrength: 0.017269
   lightness: 0.625
-  rhythmicContrast: 0.80921
   saturation: 0.1875
-cta: {}
-layout_spectrum: 1
-name: cygnet
-opengraph: {}
+  rhythmicContrast: 0.80921
 purpose:
-  - {}
-typography_spectrum: 0.127467
+  - name: null
+    item: null
+    url: null
