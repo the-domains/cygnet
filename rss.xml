@@ -4,7 +4,7 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 22:52:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 22:54:35 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tasmania Fire Service]]></title>
@@ -46,6 +46,13 @@ More settlers arrived, and from the 1850s fruit-growing, timber-getting, coal�
             <pubDate>Sat, 05 Mar 2016 22:52:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[#cygnet]]></title>
+            <description><![CDATA[<article><h1>#cygnet</h1><p>The latest Tweets on #cygnet. Read what people are saying and join the conversation.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecdefe2e-244b-4c02-bed3-7f2d295da02a.png"></article>]]></description>
+            <link>http://cygnet.online/cygnet/index.html</link>
+            <guid isPermaLink="false">a3b99d41-e174-4866-a4f0-152b4092e385</guid>
+            <pubDate>Sat, 05 Mar 2016 22:54:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Welcome to Peregrine! | Peregrine School]]></title>
             <description><![CDATA[<article><h1>Welcome to Peregrine! | Peregrine School</h1><p>© Copyright 2009 Peregrine School</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b134f8f563ce847627441b0e0c2baabf79af3b0b.jpg"></article>]]></description>
             <link>http://www.peregrine.tas.edu.au/</link>
@@ -72,13 +79,6 @@ More settlers arrived, and from the 1850s fruit-growing, timber-getting, coal�
             <link>http://dmjennings.com.au/</link>
             <guid isPermaLink="false">74641f8e-2dab-41b7-9f5d-7367086c435c</guid>
             <pubDate>Sat, 05 Mar 2016 22:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vinnies Cygnet - St Vincent de Paul Society - Good Works]]></title>
-            <description><![CDATA[<article><h1>Vinnies Cygnet - St Vincent de Paul Society - Good Works</h1><p>You can find great clothing, furniture, books, music and bric-a-brac at bargain prices at Vinnies shops. Many of our shops are also on the lookout for dedicated volunteers who can help perform a variety of roles, such as, sorting goods or assisting customers.</p></article>]]></description>
-            <link>https://www.vinnies.org.au/mobile/shops/view/1060</link>
-            <guid isPermaLink="false">98ebbbfd-92a1-42e5-8805-9652df73649b</guid>
-            <pubDate>Sat, 05 Mar 2016 21:59:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
