@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.redvelvetlounge.com.au'
-  name: Red Velvet Lounge
-  favicon: 'https://static.parastorage.com/client/pfavico.ico'
-  domain: www.redvelvetlounge.com.au
-keywords: []
-description: Superior Tasmanian Country Cafe
-app_links: []
-isBasedOnUrl: 'http://www.redvelvetlounge.com.au/'
-title: Red Velvet Lounge
-datePublished: '2016-03-05T08:57:12.915Z'
-dateModified: '2016-03-05T08:37:58.823Z'
-sourcePath: _posts/2016-03-05-red-velvet-lounge.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.redvelvetlounge.com.au/'
+inLanguage: null
+starred: true
+keywords: []
+description: Superior Tasmanian Country Cafe
+datePublished: '2016-03-05T22:10:26.245Z'
+dateModified: '2016-03-05T22:10:14.579Z'
+author: []
+related: []
+app_links: []
+title: Red Velvet Lounge
+sourcePath: _posts/2016-03-05-red-velvet-lounge.md
+published: true
+authors: []
+publisher:
+  name: Red Velvet Lounge
+  domain: www.redvelvetlounge.com.au
+  url: 'http://www.redvelvetlounge.com.au'
+  favicon: 'https://static.parastorage.com/client/pfavico.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
