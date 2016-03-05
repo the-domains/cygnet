@@ -4,8 +4,15 @@
         <description><![CDATA[cygnet]]></description>
         <link>https://thegrid.ai/cygnet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 08:57:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 08:59:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cygnet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tranquil Point Bikram Yoga Retreat Tasmania]]></title>
+            <description><![CDATA[<article><h1>Tranquil Point Bikram Yoga Retreat Tasmania</h1><p>Set in one of the most pristine locations in the world, Tranquil Point is located in Tasmania's picturesque Huon Valley on the magnificent waters of Deep Bay, just outside the township of Cygnet. Tranquil Point is an hour's drive south of Hobart's International airport.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/475fe2f629378b6d2cd4604f970102d4e7a743ab.jpg"></article>]]></description>
+            <link>http://www.tranquilpoint.com/</link>
+            <guid isPermaLink="false">25c53061-3603-4483-982a-bc060fe2a912</guid>
+            <pubDate>Sat, 05 Mar 2016 08:59:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Red Velvet Lounge]]></title>
             <description><![CDATA[<article><h1>Red Velvet Lounge</h1><p>Superior Tasmanian Country Cafe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78949031587be560d15936577d906a58a257aadd.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Cygnet Library</h1><p>Visit the Cygnet Library. Borrow books, DVDs and more. Use our computers, browse our wi-fi and learn with us.</p></article>]]></description>
             <link>http://www.linc.tas.gov.au/locations/Pages/Cygnet.aspx</link>
             <guid isPermaLink="false">93f5019c-568a-4b62-aa3d-7c071d5c18df</guid>
-            <pubDate>Sat, 05 Mar 2016 07:42:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handmade in Cygnet - Open Studio Art Trail]]></title>
-            <description><![CDATA[<article><h1>Handmade in Cygnet - Open Studio Art Trail</h1><p>"THANK YOU so much for organising Handmade in Cygnet. We, four of us, have just finished 5 hours on this trail. WOW! We were so impressed with everything we saw, and made many purchases...but, unfortunately, we only managed 7 out of 31. I guess, that was due to talking too much to the artist/craft people.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75628d582f04f8bc2ec2f874e91c0632731999e7.jpg"></article>]]></description>
-            <link>http://www.handmadeincygnet.com/</link>
-            <guid isPermaLink="false">90cd2e26-57a9-41e3-8a33-9b77e22c0666</guid>
             <pubDate>Sat, 05 Mar 2016 07:42:13 GMT</pubDate>
         </item>
     </channel>
