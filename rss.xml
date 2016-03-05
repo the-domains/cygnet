@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[cygnet.online]]></title>
-        <description><![CDATA[cygnet.online]]></description>
+        <title><![CDATA[cygnet]]></title>
+        <description><![CDATA[cygnet]]></description>
         <link>https://thegrid.ai/cygnet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 07:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 08:57:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cygnet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Red Velvet Lounge]]></title>
+            <description><![CDATA[<article><h1>Red Velvet Lounge</h1><p>Superior Tasmanian Country Cafe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78949031587be560d15936577d906a58a257aadd.jpg"></article>]]></description>
+            <link>http://www.redvelvetlounge.com.au/</link>
+            <guid isPermaLink="false">318deb2e-5f76-4e6f-bd1b-1e643a52fd59</guid>
+            <pubDate>Sat, 05 Mar 2016 08:57:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Port Cygnet Sailing Club Tasmania "On the right tack"]]></title>
             <description><![CDATA[<article><h1>Port Cygnet Sailing Club Tasmania "On the right tack"</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/befaaf937391ca4a557cad6be7d07209fbff13b0.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.handmadeincygnet.com/</link>
             <guid isPermaLink="false">90cd2e26-57a9-41e3-8a33-9b77e22c0666</guid>
             <pubDate>Sat, 05 Mar 2016 07:42:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BP Cygnet Car Service]]></title>
-            <description><![CDATA[<article><h1>BP Cygnet Car Service</h1><p>Conveniently located in the main street with plenty of easy parking and well positioned in the main street on the western outskirts of the town centre, BP Cygnet works longest hours for your convenience. The car service has operated from the same Mary street location for more than 35 years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/453fcada59b59d399dce177e786f097f0503b94e.jpg"></article>]]></description>
-            <link>http://www.bpcygnet.repcoservice.net/</link>
-            <guid isPermaLink="false">bb385c1a-d73d-4b05-9532-120535b9f145</guid>
-            <pubDate>Sat, 05 Mar 2016 07:42:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
