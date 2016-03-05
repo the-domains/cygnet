@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.huonvalley.tas.gov.au/services/sport-and-recreation/cygnet-sports-centre/'
 title: Cygnet Sports Centre - Huon Valley Council
-datePublished: '2016-03-05T07:39:49.866Z'
-dateModified: '2016-03-05T06:49:21.017Z'
+datePublished: '2016-03-05T10:23:43.176Z'
+dateModified: '2016-03-05T10:13:55.731Z'
 sourcePath: _posts/2016-03-05-cygnet-sports-centre-huon-valley-council.md
 published: true
 inFeed: true
