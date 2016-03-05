@@ -4,14 +4,14 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 23:05:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 23:09:45 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05d07fb8-34e8-4c64-8540-060bfd5e8146.jpg">]]></description>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to cygnet.online</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31f66ec5e4a062810e519ba7920f2466a85adb36.jpg"></article>]]></description>
             <link>http://cygnet.online/06fbad94-519e-44ee-a29a-9d25d109279a/index.html</link>
             <guid isPermaLink="false">06fbad94-519e-44ee-a29a-9d25d109279a</guid>
-            <pubDate>Sat, 05 Mar 2016 23:04:25 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 23:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tasmania Fire Service]]></title>
@@ -53,6 +53,13 @@ More settlers arrived, and from the 1850s fruit-growing, timber-getting, coal�
             <pubDate>Sat, 05 Mar 2016 22:52:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cygnet Demographics]]></title>
+            <description><![CDATA[<article><h1>Cygnet Demographics</h1><p>Cygnet (7112) is a suburb of Tasmania, Hobart, Tasmania. It is about 37 kms from TAS's capital city of Hobart. Cygnet is in the federal electorate of Franklin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f3a053c1ee5b282a00b9e4ff0b89c7c403b81c1.jpg"></article>]]></description>
+            <link>http://cygnet.online/cygnet-demographics/index.html</link>
+            <guid isPermaLink="false">0fea81c2-47e9-415c-843a-b4c776e1741a</guid>
+            <pubDate>Sat, 05 Mar 2016 23:09:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cygnet News]]></title>
             <description><![CDATA[<article><h1>Cygnet News</h1><p>Australia's most trusted source of local, national and world news. Comprehensive, independent, in-depth analysis, the latest business, sport, weather and more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ce83728696714e9661016de682398beccdfa9b4.jpg"></article>]]></description>
             <link>http://cygnet.online/cygnet-news/index.html</link>
@@ -72,13 +79,6 @@ More settlers arrived, and from the 1850s fruit-growing, timber-getting, coal�
             <link>http://www.peregrine.tas.edu.au/</link>
             <guid isPermaLink="false">8ba428b0-102f-45c0-8a83-8d46dfdcca39</guid>
             <pubDate>Sat, 05 Mar 2016 22:38:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Brief History of Cygnet, Tasmania by Jean Cockerill.]]></title>
-            <description><![CDATA[<article><h1>A Brief History of Cygnet, Tasmania by Jean Cockerill.</h1><p>In Van Dieman's Land in 1854 an Inspector of Schools was Mr. Thomas Arnold, a son of Dr. Arnold, founder of the famous Rugby school in England. In 1850 there was a school at Lymington - average attendance was 30. Mr Lindsay became head of a public school at Port Cygnet in 1850.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67c2152fe0e9faf295ce7b54e36c98e6e5c7ab5d.jpg"></article>]]></description>
-            <link>http://tww.id.au/cygnet/history.html</link>
-            <guid isPermaLink="false">63c2ebd0-e23e-4aef-9496-04d00436bdf6</guid>
-            <pubDate>Sat, 05 Mar 2016 22:10:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
