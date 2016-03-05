@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://cygnet.localstats.com.au'
-  name: Localstats
-  favicon: 'http://cygnet.localstats.com.au/favicon.ico'
-  domain: cygnet.localstats.com.au
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://cygnet.localstats.com.au/demographics/tas/tasmania/hobart/cygnet'
+inLanguage: en
+starred: false
 keywords:
   - cygnet
   - median
@@ -18,17 +17,20 @@ keywords:
   - bay
   - rent
 description: 'Cygnet Demographics - Get localstats and demographic information for Cygnet in Tasmania, (TAS) Tasmania - Qpzm LocalStats'
-inLanguage: en
+datePublished: '2016-03-05T09:25:58.708Z'
+dateModified: '2016-03-05T09:25:33.145Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://cygnet.localstats.com.au/demographics/tas/tasmania/hobart/cygnet'
 title: Cygnet Demographics (TAS) Local Stats
-datePublished: '2016-03-05T07:36:49.124Z'
-dateModified: '2016-03-05T07:15:37.964Z'
 sourcePath: _posts/2016-03-05-cygnet-demographics-tas-local-stats.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Localstats
+  domain: cygnet.localstats.com.au
+  url: 'http://cygnet.localstats.com.au'
+  favicon: 'http://cygnet.localstats.com.au/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
