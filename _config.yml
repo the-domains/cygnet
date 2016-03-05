@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.228618
+  lightness: 0.663072
+  rhythmicContrast: 0.80921
+  saturation: 0.121199
+cta: {}
+layout_spectrum: 1
+name: cygnet
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.127467
