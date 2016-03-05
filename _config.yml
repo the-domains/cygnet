@@ -1,4 +1,20 @@
-analytics: {}
+name: cygnet
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.127467
+title: cygnet.online
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -8,11 +24,9 @@ color:
     - '#DD403A'
   brandStrength: 0.228618
   lightness: 0.663072
-  rhythmicContrast: 0.80921
   saturation: 0.121199
-cta: {}
-layout_spectrum: 1
-name: cygnet
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.127467
+  rhythmicContrast: 0.80921
+purpose:
+  - name: null
+    item: null
+    url: null
