@@ -4,7 +4,7 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 22:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 22:10:17 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digital Agency, a Tasmanian Digital Agency. | d1g1tal.agency]]></title>
@@ -12,6 +12,13 @@
             <link>http://d1g1tal.agency/digital-agency/</link>
             <guid isPermaLink="false">17078a8f-30a1-4996-9f81-8bc7349e45a3</guid>
             <pubDate>Sat, 05 Mar 2016 22:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Brief History of Cygnet, Tasmania by Jean Cockerill.]]></title>
+            <description><![CDATA[<article><h1>A Brief History of Cygnet, Tasmania by Jean Cockerill.</h1><p>In Van Dieman's Land in 1854 an Inspector of Schools was Mr. Thomas Arnold, a son of Dr. Arnold, founder of the famous Rugby school in England. In 1850 there was a school at Lymington - average attendance was 30. Mr Lindsay became head of a public school at Port Cygnet in 1850.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67c2152fe0e9faf295ce7b54e36c98e6e5c7ab5d.jpg"></article>]]></description>
+            <link>http://tww.id.au/cygnet/history.html</link>
+            <guid isPermaLink="false">63c2ebd0-e23e-4aef-9496-04d00436bdf6</guid>
+            <pubDate>Sat, 05 Mar 2016 22:10:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Port Cygnet Sailing Club Tasmania]]></title>
@@ -68,13 +75,6 @@
             <link>http://cygnet.localstats.com.au/demographics/tas/tasmania/hobart/cygnet</link>
             <guid isPermaLink="false">0fea81c2-47e9-415c-843a-b4c776e1741a</guid>
             <pubDate>Sat, 05 Mar 2016 09:25:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Niche Southern Tasmanian Yoga Retreat Centre]]></title>
-            <description><![CDATA[<article><h1>Niche Southern Tasmanian Yoga Retreat Centre</h1><p>29-31 January Private Retreat 5-8 February Women's Spiritual Deepening Retreat with Sahaja Enquiries/bookings: www.FreedomPurityHeart.com Mob: 0435 947 959 19-21 February Private Retreat 25-29 February Yoga and Bushwalking Wilderness Retreat with Bernie Moris Enquiries/bookings: bernie@flourishyoga.com.au Mob: 0409 391 454 1-3 March Private Retreat 4-6 March Doll Making Retreat with Nelly Hampbel Enquiries/booking: Nelly Mob: 0437 716 249 www.preciouslittlefolk.com.au 11-16 March Mindfulness Retreat with Bruno Cayoun Mindfulness Institute admin@mindfulness.net.au 03 62 248 448 1-3 April WOMENS' REJUVENATION Retreat with Life Coach and Core Yoga instructor Greer Sakul.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6093c9aa749c600741d75b85043a2c35464c3156.jpg"></article>]]></description>
-            <link>http://www.nichetas.com.au/</link>
-            <guid isPermaLink="false">c4b9b327-cf77-4c4d-acf4-096bdbdacb4b</guid>
-            <pubDate>Sat, 05 Mar 2016 08:59:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
