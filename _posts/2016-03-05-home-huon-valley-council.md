@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.huonvalley.tas.gov.au/'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: true
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - bygone
   - valley
 description: 'The Huon Valley Council is the southernmost local government area in Australia. The area retains the beauty, charm and heritage of a bygone era, yet it is only a 30-minute drive from Hobart. The main townships are Huonville, Franklin, Cygnet, Geeveston and Dover.'
-datePublished: '2016-03-05T22:31:24.615Z'
-dateModified: '2016-03-05T22:31:14.060Z'
+datePublished: '2016-03-05T22:49:20.638Z'
+dateModified: '2016-03-05T22:49:19.909Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   domain: www.huonvalley.tas.gov.au
   url: 'http://www.huonvalley.tas.gov.au'
   favicon: 'http://www.huonvalley.tas.gov.au/wp-content/themes/huoncouncil/static/images/touch/favicon.png'
+url: huon-valley-council/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
