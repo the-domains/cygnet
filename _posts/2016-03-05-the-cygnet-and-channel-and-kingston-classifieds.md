@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.southbus.com.au/'
 title: 'The Cygnet and Channel & Kingston Classifieds'
-datePublished: '2016-03-05T07:27:38.304Z'
-dateModified: '2016-03-05T06:40:57.468Z'
+datePublished: '2016-03-05T07:42:14.245Z'
+dateModified: '2016-03-05T06:40:57.247Z'
 sourcePath: _posts/2016-03-05-the-cygnet-and-channel-and-kingston-classifieds.md
 published: true
 inFeed: true
