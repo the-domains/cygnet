@@ -4,7 +4,7 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 22:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 22:54:55 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tasmania Fire Service]]></title>
@@ -46,8 +46,15 @@ More settlers arrived, and from the 1850s fruit-growing, timber-getting, coal�
             <pubDate>Sat, 05 Mar 2016 22:52:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cygnet News]]></title>
+            <description><![CDATA[<article><h1>Cygnet News</h1><p>Australia's most trusted source of local, national and world news. Comprehensive, independent, in-depth analysis, the latest business, sport, weather and more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ce83728696714e9661016de682398beccdfa9b4.jpg"></article>]]></description>
+            <link>http://cygnet.online/cygnet-news/index.html</link>
+            <guid isPermaLink="false">d402b098-5047-45c3-986c-1267e0898a70</guid>
+            <pubDate>Sat, 05 Mar 2016 22:54:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[#cygnet]]></title>
-            <description><![CDATA[<article><h1>#cygnet</h1><p>The latest Tweets on #cygnet. Read what people are saying and join the conversation.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecdefe2e-244b-4c02-bed3-7f2d295da02a.png"></article>]]></description>
+            <description><![CDATA[<article><h1>#cygnet</h1><p>The latest Tweets on #cygnet. Read what people are saying and join the conversation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46fb63332b75732e84ced05f5527162878c3e3b6.png"></article>]]></description>
             <link>http://cygnet.online/cygnet/index.html</link>
             <guid isPermaLink="false">a3b99d41-e174-4866-a4f0-152b4092e385</guid>
             <pubDate>Sat, 05 Mar 2016 22:54:01 GMT</pubDate>
@@ -72,13 +79,6 @@ More settlers arrived, and from the 1850s fruit-growing, timber-getting, coal�
             <link>http://www.cygnetsailing.org.au/Port_Cygnet_Sailing_Club/Welcome.html</link>
             <guid isPermaLink="false">1ec7b1c9-6a87-49f1-baf8-8ff8dcfba515</guid>
             <pubDate>Sat, 05 Mar 2016 22:09:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strawberry Farm]]></title>
-            <description><![CDATA[<article><h1>Strawberry Farm</h1><p>Established In 1983 in the Huon Valley as a small family owned strawberry farm, DM Jennings & Sons are now the largest commercial strawberry farm in Tasmania. The strawberries are still locally grown by the Jennings family in Cygnet today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b45b47668462240e02cb475213e242b8ec438601.jpg"></article>]]></description>
-            <link>http://dmjennings.com.au/</link>
-            <guid isPermaLink="false">74641f8e-2dab-41b7-9f5d-7367086c435c</guid>
-            <pubDate>Sat, 05 Mar 2016 22:08:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
