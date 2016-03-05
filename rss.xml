@@ -4,7 +4,7 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 22:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 22:09:33 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digital Agency, a Tasmanian Digital Agency. | d1g1tal.agency]]></title>
@@ -12,6 +12,13 @@
             <link>http://d1g1tal.agency/digital-agency/</link>
             <guid isPermaLink="false">17078a8f-30a1-4996-9f81-8bc7349e45a3</guid>
             <pubDate>Sat, 05 Mar 2016 22:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Port Cygnet Sailing Club Tasmania]]></title>
+            <description><![CDATA[<article><h1>Port Cygnet Sailing Club Tasmania</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a756ddaaa656d93385d4592a4881b963da339baa.png"></article>]]></description>
+            <link>http://www.cygnetsailing.org.au/Port_Cygnet_Sailing_Club/Welcome.html</link>
+            <guid isPermaLink="false">1ec7b1c9-6a87-49f1-baf8-8ff8dcfba515</guid>
+            <pubDate>Sat, 05 Mar 2016 22:09:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strawberry Farm]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.nichetas.com.au/</link>
             <guid isPermaLink="false">c4b9b327-cf77-4c4d-acf4-096bdbdacb4b</guid>
             <pubDate>Sat, 05 Mar 2016 08:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cygnet Weather - local weather forecast " Weatherzone Mobile]]></title>
-            <description><![CDATA[<article><h1>Cygnet Weather - local weather forecast " Weatherzone Mobile</h1><p>Cygnet Weather - 7-day weather forecast, current temperature and weather radar from Weatherzone Mobile.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61c0b473559acd900acf2f5928b551f838134954.png"></article>]]></description>
-            <link>http://m.weatherzone.com.au/tas/lower-derwent/cygnet</link>
-            <guid isPermaLink="false">33a6f15d-b415-49b9-b6bd-a60a38c21e8d</guid>
-            <pubDate>Sat, 05 Mar 2016 09:00:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
