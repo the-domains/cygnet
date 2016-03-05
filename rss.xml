@@ -4,7 +4,7 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 22:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 22:08:25 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digital Agency, a Tasmanian Digital Agency. | d1g1tal.agency]]></title>
@@ -12,6 +12,13 @@
             <link>http://d1g1tal.agency/digital-agency/</link>
             <guid isPermaLink="false">17078a8f-30a1-4996-9f81-8bc7349e45a3</guid>
             <pubDate>Sat, 05 Mar 2016 22:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strawberry Farm]]></title>
+            <description><![CDATA[<article><h1>Strawberry Farm</h1><p>Established In 1983 in the Huon Valley as a small family owned strawberry farm, DM Jennings & Sons are now the largest commercial strawberry farm in Tasmania. The strawberries are still locally grown by the Jennings family in Cygnet today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b45b47668462240e02cb475213e242b8ec438601.jpg"></article>]]></description>
+            <link>http://dmjennings.com.au/</link>
+            <guid isPermaLink="false">74641f8e-2dab-41b7-9f5d-7367086c435c</guid>
+            <pubDate>Sat, 05 Mar 2016 22:08:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vinnies Cygnet - St Vincent de Paul Society - Good Works]]></title>
@@ -68,13 +75,6 @@
             <link>http://m.weatherzone.com.au/tas/lower-derwent/cygnet</link>
             <guid isPermaLink="false">33a6f15d-b415-49b9-b6bd-a60a38c21e8d</guid>
             <pubDate>Sat, 05 Mar 2016 09:00:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tasmania Fire Service]]></title>
-            <description><![CDATA[<article><h1>Tasmania Fire Service</h1><p>Information for Tasmania on alerts, total fire bans, fire danger ratings, fire restrictions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4ba5ff58f9acbc2dd4ab5f4c32a0d7f9cdbbf88.png"></article>]]></description>
-            <link>http://www.fire.tas.gov.au/Show?pageId=colGMapBushfires</link>
-            <guid isPermaLink="false">38f4c329-04b5-4f6e-a10a-e23d1437123e</guid>
-            <pubDate>Sat, 05 Mar 2016 09:00:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
