@@ -4,8 +4,15 @@
         <description><![CDATA[cygnet]]></description>
         <link>https://thegrid.ai/cygnet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 07:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 07:29:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cygnet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cygnet Forecast]]></title>
+            <description><![CDATA[<article><h1>Cygnet Forecast</h1><p>Cloudy. Slight (30%) chance of drizzle near the coast early morning, then a high (70%) chance of rain developing in the evening. Winds west to northwesterly 15 to 20 km/h shifting south to southeasterly 20 to 30 km/h in the afternoon. Overnight temperatures falling to between 9 and 14 with daytime temperatures reaching between 19 and 24.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad8f8e91668141791e81a0af427771af8fba40b5.png"></article>]]></description>
+            <link>http://www.bom.gov.au/tas/forecasts/cygnet.shtml</link>
+            <guid isPermaLink="false">bb6bf82f-dd0c-4e1e-89b2-b21bfa65ce98</guid>
+            <pubDate>Sat, 05 Mar 2016 07:28:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Huon Valley - Cygnet - Dover - Geeveston - Huonville]]></title>
             <description><![CDATA[<article><h1>Huon Valley - Cygnet - Dover - Geeveston - Huonville</h1><p>Back : Huon Valley - Cygnet - Dover - Geeveston - Huonville Bookings are not required. Ensure you are at the bus stop 10 minutes prior to departure and hail the driver. Service operates 7 days a week - 12 services Monday to Friday and 6 services on Saturday and Sunday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/518520b9a5e714d6cdada67b54da19d4fd031bf8.jpg"></article>]]></description>
@@ -72,13 +79,6 @@ More settlers arrived, and from the 1850s fruit-growing, timber-getting, coal�
             <link>http://huonvalleyvisitorcentre.com.au/p/destinations/towns/cygnet#.VtqDNMs7ZnE</link>
             <guid isPermaLink="false">a3bfea8d-0533-4de0-bee2-21673a0d5596</guid>
             <pubDate>Sat, 05 Mar 2016 07:26:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Port Cygnet Scout Group]]></title>
-            <description><![CDATA[<article><h1>Port Cygnet Scout Group</h1><p>Saturday 25th April 2015 The Port Cygnet Scouts again facilitated the Dawn Service this year at the Cygnet Cenotaph. The 100 year commemorations commenced with a vigil of the Cenotaph from 6:00pm-6:00am by members of the Scout Group and members of the community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f96d2e61cd2683081eb77708a32d6e9cf9e9d76.jpg"></article>]]></description>
-            <link>http://www.portcygnet.tas.scouts.com.au/</link>
-            <guid isPermaLink="false">361849e0-815a-4f60-89cd-f757d7b3a8ac</guid>
-            <pubDate>Sat, 05 Mar 2016 07:26:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
