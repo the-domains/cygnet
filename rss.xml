@@ -4,7 +4,7 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 23:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 23:25:12 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -53,6 +53,13 @@ More settlers arrived, and from the 1850s fruit-growing, timber-getting, coal�
             <pubDate>Sat, 05 Mar 2016 22:52:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cygnet Holiday Rentals & Accommodation - Airbnb]]></title>
+            <description><![CDATA[<article><h1>Cygnet Holiday Rentals & Accommodation - Airbnb</h1><p>Rent from people in Cygnet from $60 AUD/night. Find unique places to stay with local hosts in 190 countries. Belong anywhere with Airbnb.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d16b4813f3e6f9ad5a3653e2a31b78ac07ea61f3.png"></article>]]></description>
+            <link>https://www.airbnb.com.au/s/Cygnet--Australia?s_tag=F4ZJoEab</link>
+            <guid isPermaLink="false">aa543e92-229d-4af2-9b7c-df84d4dbed3d</guid>
+            <pubDate>Sat, 05 Mar 2016 23:25:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Peregrine School]]></title>
             <description><![CDATA[<article><h1>Peregrine School</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b134f8f563ce847627441b0e0c2baabf79af3b0b.jpg"></article>]]></description>
             <link>http://www.peregrine.tas.edu.au/</link>
@@ -72,13 +79,6 @@ More settlers arrived, and from the 1850s fruit-growing, timber-getting, coal�
             <link>http://cygnet.online/cygnet-demographics/index.html</link>
             <guid isPermaLink="false">0fea81c2-47e9-415c-843a-b4c776e1741a</guid>
             <pubDate>Sat, 05 Mar 2016 23:09:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cygnet News]]></title>
-            <description><![CDATA[<article><h1>Cygnet News</h1><p>Australia's most trusted source of local, national and world news. Comprehensive, independent, in-depth analysis, the latest business, sport, weather and more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ce83728696714e9661016de682398beccdfa9b4.jpg"></article>]]></description>
-            <link>http://cygnet.online/cygnet-news/index.html</link>
-            <guid isPermaLink="false">d402b098-5047-45c3-986c-1267e0898a70</guid>
-            <pubDate>Sat, 05 Mar 2016 23:03:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
