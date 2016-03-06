@@ -4,15 +4,8 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 02:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 02:40:13 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Cygnet Market]]></title>
-            <description><![CDATA[<article><h1>The Cygnet Market</h1><p>The Cygnet Market is a vibrant country market held on the 1st and 3rd Sunday each month, all year. Fresh produce, food, live music & everything in between.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/785189a76a3d7faa148e3b6603450203f325f083.jpg"></article>]]></description>
-            <link>http://cygnetmarket.com.au/</link>
-            <guid isPermaLink="false">398a65c4-26c0-4d40-a3a2-5a1b228d4161</guid>
-            <pubDate>Sun, 06 Mar 2016 02:40:39 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to cygnet.online</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31f66ec5e4a062810e519ba7920f2466a85adb36.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.instagram.com/explore/tags/cygnet/</link>
             <guid isPermaLink="false">ec45e246-efcb-438b-99f9-30f5d5724e2c</guid>
             <pubDate>Sun, 06 Mar 2016 02:27:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Huon Valley Council]]></title>
+            <description><![CDATA[<article><h1>Huon Valley Council</h1><p>The Huon Valley Council is the southernmost local government area in Australia. The area retains the beauty, charm and heritage of a bygone era, yet it is only a 30-minute drive from Hobart. The main townships are Huonville, Franklin, Cygnet, Geeveston and Dover.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca4663b9bbc90c4e309a2279347b6a520da1a6f0.jpg"></article>]]></description>
+            <link>http://cygnet.online/huon-valley-council/index.html</link>
+            <guid isPermaLink="false">51812069-c259-4cf3-b788-3717e12eae0d</guid>
+            <pubDate>Sun, 06 Mar 2016 00:13:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
