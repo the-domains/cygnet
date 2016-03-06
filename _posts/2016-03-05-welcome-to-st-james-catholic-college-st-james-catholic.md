@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.sjcc.tas.edu.au'
-  name: Sjcc
-  favicon: 'http://www.sjcc.tas.edu.au/favicon.ico'
-  domain: www.sjcc.tas.edu.au
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.sjcc.tas.edu.au/'
+inLanguage: en
+starred: false
 keywords:
   - catholic
   - '6295'
@@ -18,17 +17,20 @@ keywords:
   - cygnet
   - hobart
 description: ''
-inLanguage: en
+datePublished: '2016-03-06T02:04:04.948Z'
+dateModified: '2016-03-06T02:04:04.321Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.sjcc.tas.edu.au/'
-title: Welcome to St James Catholic College... - St James Catholic College
-datePublished: '2016-03-05T07:28:29.800Z'
-dateModified: '2016-03-05T06:49:52.812Z'
+title: St James Catholic College
 sourcePath: _posts/2016-03-05-welcome-to-st-james-catholic-college-st-james-catholic.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Sjcc
+  domain: www.sjcc.tas.edu.au
+  url: 'http://www.sjcc.tas.edu.au'
+  favicon: 'http://www.sjcc.tas.edu.au/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
