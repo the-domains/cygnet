@@ -16,8 +16,8 @@ keywords:
   - directions
   - loyal
 description: "Get your business on Google for free! New – Google My Business connects you directly with customers, whether they're looking for you on Search, Maps or Google+. Google My Business helps you build a loyal fan base. Your customers can show their appreciation with ratings and reviews, use the +1 button to endorse your content, and re-share your Google+ posts across the web."
-datePublished: '2016-03-06T02:28:44.659Z'
-dateModified: '2016-03-06T01:58:15.832Z'
+datePublished: '2016-03-06T02:37:51.765Z'
+dateModified: '2016-03-06T02:37:51.125Z'
 author: []
 related: []
 app_links: []
