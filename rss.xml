@@ -4,7 +4,7 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 00:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 00:08:36 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -53,6 +53,13 @@ More settlers arrived, and from the 1850s fruit-growing, timber-getting, coal�
             <pubDate>Sat, 05 Mar 2016 22:52:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cygnet Family Practice]]></title>
+            <description><![CDATA[<article><h1>Cygnet Family Practice</h1><p>default description</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12c481e8755981b10b48974fc878aaebf3f897ac.jpg"></article>]]></description>
+            <link>http://www.cygnetfamilypractice.com/</link>
+            <guid isPermaLink="false">e135bcbb-a680-4395-900a-bc465b030e12</guid>
+            <pubDate>Sun, 06 Mar 2016 00:07:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cygnet Community Childrens Centre Inc. in Cygnet, 7112 - CareforKids.com.au]]></title>
             <description><![CDATA[<article><h1>Cygnet Community Childrens Centre Inc. in Cygnet, 7112 - CareforKids.com.au</h1><p>View vacancies, fees, contact details, reviews, ratings and more for Cygnet Community Childrens Centre Inc. in Cygnet, 7112</p></article>]]></description>
             <link>https://www.careforkids.com.au/child-care/ng1z7/cygnet-community-childrens-centre-inc-7112</link>
@@ -72,13 +79,6 @@ More settlers arrived, and from the 1850s fruit-growing, timber-getting, coal�
             <link>https://www.airbnb.com.au/c/adrianw172?s=8</link>
             <guid isPermaLink="false">f1783448-9870-4127-8b49-9e4463a51300</guid>
             <pubDate>Sat, 05 Mar 2016 23:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cygnet Holiday Rentals & Accommodation - Airbnb]]></title>
-            <description><![CDATA[<article><h1>Cygnet Holiday Rentals & Accommodation - Airbnb</h1><p>Rent from people in Cygnet from $60 AUD/night. Find unique places to stay with local hosts in 190 countries. Belong anywhere with Airbnb.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d16b4813f3e6f9ad5a3653e2a31b78ac07ea61f3.png"></article>]]></description>
-            <link>https://www.airbnb.com.au/s/Cygnet--Australia?s_tag=F4ZJoEab</link>
-            <guid isPermaLink="false">aa543e92-229d-4af2-9b7c-df84d4dbed3d</guid>
-            <pubDate>Sat, 05 Mar 2016 23:25:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
