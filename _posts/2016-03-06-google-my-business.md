@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.google.com.au/business/'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -16,9 +15,9 @@ keywords:
   - phones
   - directions
   - loyal
-description: 'Google My Business helps you build a loyal fan base. Your customers can show their appreciation with ratings and reviews, use the +1 button to endorse your content, and re-share your Google+ posts across the web.'
-datePublished: '2016-03-06T01:55:14.764Z'
-dateModified: '2016-03-06T01:54:51.937Z'
+description: "Get your business on Google for free! New – Google My Business connects you directly with customers, whether they're looking for you on Search, Maps or Google+. Google My Business helps you build a loyal fan base. Your customers can show their appreciation with ratings and reviews, use the +1 button to endorse your content, and re-share your Google+ posts across the web."
+datePublished: '2016-03-06T02:28:44.659Z'
+dateModified: '2016-03-06T01:58:15.832Z'
 author: []
 related: []
 app_links: []
@@ -31,8 +30,17 @@ publisher:
   domain: www.google.com.au
   url: 'https://www.google.com.au'
   favicon: 'https://www.google.com.au/images/branding/product/ico/google_my_business_48dp.ico'
+url: google-my-business/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
 <article style=""><h1>Google My Business</h1><p>Get your business on Google for free! New – Google My Business connects you directly with customers, whether they're looking for you on Search, Maps or Google+. Google My Business helps you build a loyal fan base. Your customers can show their appreciation with ratings and reviews, use the +1 button to endorse your content, and re-share your Google+ posts across the web.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fa062a22579ced6511a69b38eb43739b373be95.png" /></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcc79ebf-12b6-4a73-b46d-dc6cf395a79a.png)
+
+[Get your Business Online! ][0]
+
+Give customers the right info at the right time, whether that be driving directions to your business in Maps, hours of operations in Search or a phone number they can click to call you on mobile phones.
+
+[0]: https://www.google.com.au/business
