@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.cygnetfamilypractice.com'
-  name: Cygnetfamilypractice
-  favicon: null
-  domain: www.cygnetfamilypractice.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.cygnetfamilypractice.com/'
+inLanguage: en
+starred: false
 keywords:
   - missionnews
   - teamour
@@ -17,18 +16,21 @@ keywords:
   - holistic
   - patients
   - care
-description: default description
-inLanguage: en
+description: ''
+datePublished: '2016-03-06T00:07:47.436Z'
+dateModified: '2016-03-06T00:07:44.199Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.cygnetfamilypractice.com/'
-title: Cygnet Family Practice - Mission
-datePublished: '2016-03-05T08:59:02.717Z'
-dateModified: '2016-03-05T08:10:58.159Z'
+title: Cygnet Family Practice
 sourcePath: _posts/2016-03-05-cygnet-family-practice-mission.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Cygnetfamilypractice
+  domain: www.cygnetfamilypractice.com
+  url: 'http://www.cygnetfamilypractice.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
