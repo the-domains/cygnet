@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Information for Tasmania on alerts, total fire bans, fire danger ratings, fire restrictions.'
-datePublished: '2016-03-05T22:38:14.401Z'
-dateModified: '2016-03-05T22:38:13.050Z'
+datePublished: '2016-03-06T00:57:43.557Z'
+dateModified: '2016-03-06T00:57:36.291Z'
 author: []
 related: []
 app_links: []
