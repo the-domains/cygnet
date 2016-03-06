@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.redvelvetlounge.com.au/'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Superior Tasmanian Country Cafe
-datePublished: '2016-03-05T22:10:26.245Z'
-dateModified: '2016-03-05T22:10:14.579Z'
+datePublished: '2016-03-06T00:05:49.775Z'
+dateModified: '2016-03-05T22:30:59.765Z'
 author: []
 related: []
 app_links: []
@@ -21,6 +20,7 @@ publisher:
   domain: www.redvelvetlounge.com.au
   url: 'http://www.redvelvetlounge.com.au'
   favicon: 'https://static.parastorage.com/client/pfavico.ico'
+url: red-velvet-lounge/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
