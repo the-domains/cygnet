@@ -17,8 +17,8 @@ keywords:
   - patients
   - care
 description: ''
-datePublished: '2016-03-06T00:07:47.436Z'
-dateModified: '2016-03-06T00:07:44.199Z'
+datePublished: '2016-03-06T02:24:56.670Z'
+dateModified: '2016-03-06T02:24:44.745Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Cygnet Family Practice - Mission</h1><p>default description</p><img src="http://storage.googleapis.com/wzukusers/user-14848422/images/56079d2311397XEuGSyO/Photo-Team-with-sign-1_800.jpg" /></article>
+<article style=""><h1>Cygnet Family Practice</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12c481e8755981b10b48974fc878aaebf3f897ac.jpg" /></article>
