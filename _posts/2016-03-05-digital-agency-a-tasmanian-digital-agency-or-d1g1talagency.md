@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - google
   - partnering
@@ -16,8 +16,8 @@ keywords:
   - stay
   - abn
 description: 'Digital Marketing Excellence. Based in Cygnet, Tasmania | d1g1tal.agency | Get digital marketing advice you can trust. Google Partners stay up to date on the latest Google tools and products by passing Google-administered certification exams every 12 months. Proven success is what puts Partners above the rest. They use industry best practices to manage campaigns and focus on helping you get the most out of your marketing budget.'
-datePublished: '2016-03-05T22:52:16.947Z'
-dateModified: '2016-03-05T22:52:07.402Z'
+datePublished: '2016-03-06T02:05:58.465Z'
+dateModified: '2016-03-06T00:07:17.274Z'
 author: []
 related:
   - score: 0.5496269464
