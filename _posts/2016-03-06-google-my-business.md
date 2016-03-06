@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.google.com.au'
-  name: Google
-  favicon: 'https://www.google.com.au/images/branding/product/ico/google_my_business_48dp.ico'
-  domain: www.google.com.au
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.google.com.au/business/'
+inLanguage: en
+starred: false
 keywords:
   - google
   - business
@@ -18,19 +17,22 @@ keywords:
   - directions
   - loyal
 description: 'Google My Business helps you build a loyal fan base. Your customers can show their appreciation with ratings and reviews, use the +1 button to endorse your content, and re-share your Google+ posts across the web.'
-inLanguage: en
+datePublished: '2016-03-06T01:55:14.764Z'
+dateModified: '2016-03-06T01:54:51.937Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.google.com.au/business/'
 title: Google My Business
-datePublished: '2016-03-06T00:33:31.015Z'
-dateModified: '2016-03-06T00:31:48.000Z'
 sourcePath: _posts/2016-03-06-google-my-business.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Google
+  domain: www.google.com.au
+  url: 'https://www.google.com.au'
+  favicon: 'https://www.google.com.au/images/branding/product/ico/google_my_business_48dp.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Google My Business</h1><p>Google My Business helps you build a loyal fan base&amp;period; Your customers can show their appreciation with ratings and reviews&amp;comma; use the &amp;plus;1 button to endorse your content&amp;comma; and re-share your Google&amp;plus; posts across the web&amp;period;</p><img src="https://www.google.com.au/business/img/index/devices.png" /></article>
+<article style=""><h1>Google My Business</h1><p>Get your business on Google for free! New – Google My Business connects you directly with customers, whether they're looking for you on Search, Maps or Google+. Google My Business helps you build a loyal fan base. Your customers can show their appreciation with ratings and reviews, use the +1 button to endorse your content, and re-share your Google+ posts across the web.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fa062a22579ced6511a69b38eb43739b373be95.png" /></article>
