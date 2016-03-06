@@ -4,7 +4,7 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 23:59:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 00:03:29 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -53,6 +53,13 @@ More settlers arrived, and from the 1850s fruit-growing, timber-getting, coal�
             <pubDate>Sat, 05 Mar 2016 22:52:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Stuff for sale in Cygnet]]></title>
+            <description><![CDATA[<article><h1>Stuff for sale in Cygnet</h1><p>New and used items for sale or post a free ad to sell in Cygnet, TAS. Buy and sell almost anything on Gumtree classifieds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50ff1185a76e5530ecaeeb0591fcf1efc5be7223.jpg"></article>]]></description>
+            <link>http://www.gumtree.com.au/s-cygnet-hobart/l3000316</link>
+            <guid isPermaLink="false">e7e2d8f1-a051-406a-ba4c-4f04cd16a791</guid>
+            <pubDate>Sun, 06 Mar 2016 00:02:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Airbnb | Get $27 AUD off your first adventure!]]></title>
             <description><![CDATA[<article><h1>Airbnb | Get $27 AUD off your first adventure!</h1><p>Join Airbnb and find over one million unique places to stay anywhere in the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a306e89eca0b7106a79acea62e53fa165bab6c1.png"></article>]]></description>
             <link>https://www.airbnb.com.au/c/adrianw172?s=8</link>
@@ -72,13 +79,6 @@ More settlers arrived, and from the 1850s fruit-growing, timber-getting, coal�
             <link>http://www.peregrine.tas.edu.au/</link>
             <guid isPermaLink="false">8ba428b0-102f-45c0-8a83-8d46dfdcca39</guid>
             <pubDate>Sat, 05 Mar 2016 23:18:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#cygnet * Instagram photos and videos]]></title>
-            <description><![CDATA[<article><h1>#cygnet * Instagram photos and videos</h1><p>Photos and videos with the hashtag 'cygnet' on Instagram</p></article>]]></description>
-            <link>https://www.instagram.com/explore/tags/cygnet/</link>
-            <guid isPermaLink="false">ec45e246-efcb-438b-99f9-30f5d5724e2c</guid>
-            <pubDate>Sat, 05 Mar 2016 23:15:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
