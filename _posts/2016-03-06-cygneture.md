@@ -1,25 +1,29 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-06T00:06:30.476Z'
-dateModified: '2016-03-05T09:40:13.283Z'
+description: Cygneture Chocolates
+datePublished: '2016-03-08T07:36:05.613Z'
+dateModified: '2016-03-08T07:36:04.750Z'
 title: Cygneture
 author: []
+sourcePath: _posts/2016-03-06-cygneture.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-06-cygneture.md
-published: true
-_type: Blurb
+url: cygneture/index.html
+_type: Article
 
 ---
-http://www.cygneture.com.au/
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/39ab9e4c-8881-4c97-8441-7f2be3203bb7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc06a13363e73a39c13b8b9162770fa5837a158a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8bf5b4e-3e3b-4be0-b5e3-5f1be6c2cbfa.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5905908e-1a05-47aa-a5e1-cd4d69ade11b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77d3666b-5763-44d4-8f24-2ac41353e663.jpg)
