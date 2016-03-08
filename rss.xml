@@ -4,7 +4,7 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 07:36:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 20:27:27 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cygneture]]></title>
@@ -26,6 +26,13 @@
             <link>http://cygnet.online/06fbad94-519e-44ee-a29a-9d25d109279a/index.html</link>
             <guid isPermaLink="false">06fbad94-519e-44ee-a29a-9d25d109279a</guid>
             <pubDate>Sun, 06 Mar 2016 02:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pagan Cider | Tasmania Australia]]></title>
+            <description><![CDATA[<article><h1>Pagan Cider | Tasmania Australia</h1><p>Wholesale orders Email: Orders@pagancider.com.au Phone/text: 0448 882 948 Visit our cellar door 7891 Channel Highway, Cradoc, Tasmania Pure wizardry With its long apple-growing history and abundance of glorious fruit, Tasmania is the natural home of Pagan Cider. Blessed with clean air, rich alluvial soil, chilled foggy winters and long hours of summer sunshine, Tasmania's idyllic Huon Valley is an apple-growing heaven.</p><img src="http://www.pagancider.com.au/images/characters/man.jpg"></article>]]></description>
+            <link>http://www.pagancider.com.au/</link>
+            <guid isPermaLink="false">cf8638b7-aba9-45b8-aa5f-c0e4f1c51d41</guid>
+            <pubDate>Tue, 08 Mar 2016 20:27:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Way to St James Cygnet]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.sjcc.tas.edu.au/</link>
             <guid isPermaLink="false">e2fe2208-07c7-44c3-ac53-92e9f53d07f1</guid>
             <pubDate>Sun, 06 Mar 2016 02:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tasmania Fire Service]]></title>
-            <description><![CDATA[<article><h1>Tasmania Fire Service</h1><p>Information for Tasmania on alerts, total fire bans, fire danger ratings, fire restrictions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4ba5ff58f9acbc2dd4ab5f4c32a0d7f9cdbbf88.png"></article>]]></description>
-            <link>http://cygnet.online/tasmania-fire-service/index.html</link>
-            <guid isPermaLink="false">38f4c329-04b5-4f6e-a10a-e23d1437123e</guid>
-            <pubDate>Sun, 06 Mar 2016 00:57:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
