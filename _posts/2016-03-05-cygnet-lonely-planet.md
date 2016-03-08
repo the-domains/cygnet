@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'https://www.lonelyplanet.com'
   name: Lonely Planet
-  favicon: 'https://www.lonelyplanet.com/favicon.ico'
   domain: www.lonelyplanet.com
+  url: 'https://www.lonelyplanet.com'
+  favicon: 'https://www.lonelyplanet.com/favicon.ico'
 keywords:
   - bruny
   - cygnet
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.lonelyplanet.com/australia/tasmania/cygnet'
 title: Cygnet - Lonely Planet
-datePublished: '2016-03-05T07:39:48.323Z'
-dateModified: '2016-03-05T06:52:30.882Z'
+datePublished: '2016-03-08T22:27:02.999Z'
+dateModified: '2016-03-08T22:26:46.647Z'
 sourcePath: _posts/2016-03-05-cygnet-lonely-planet.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
