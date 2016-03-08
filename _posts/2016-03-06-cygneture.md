@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Cygneture Chocolates
-datePublished: '2016-03-08T22:53:50.853Z'
+datePublished: '2016-03-08T22:54:30.613Z'
 dateModified: '2016-03-08T22:53:37.965Z'
 title: Cygneture
 author: []
