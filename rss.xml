@@ -4,8 +4,15 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 21:59:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 22:26:37 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Township Theme Project Cygnet Community Engagement Survey]]></title>
+            <description><![CDATA[<article><h1>Township Theme Project Cygnet Community Engagement Survey</h1><p>Web survey powered by SurveyMonkey.com. Create your own online survey now with SurveyMonkey's expert certified FREE templates.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc38750d17371beabf282730775b45cc200ab418.png"></article>]]></description>
+            <link>https://www.surveymonkey.com/r/CygnetEngagement</link>
+            <guid isPermaLink="false">4cfddc72-5cc3-435f-99f5-b1aca0c7a37c</guid>
+            <pubDate>Tue, 08 Mar 2016 22:25:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cygneture]]></title>
             <description><![CDATA[<article><h1>Cygneture</h1><p>Cygneture Chocolates</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5270b618823608e582d1191a3807435be1a7fec.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://m.weatherzone.com.au/tas/lower-derwent/cygnet</link>
             <guid isPermaLink="false">33a6f15d-b415-49b9-b6bd-a60a38c21e8d</guid>
             <pubDate>Sun, 06 Mar 2016 02:26:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[St James Catholic College]]></title>
-            <description><![CDATA[<article><h1>St James Catholic College</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17c3a586384f066ae815bd7696919eba44703c8a.jpg"></article>]]></description>
-            <link>http://www.sjcc.tas.edu.au/</link>
-            <guid isPermaLink="false">e2fe2208-07c7-44c3-ac53-92e9f53d07f1</guid>
-            <pubDate>Sun, 06 Mar 2016 02:04:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
