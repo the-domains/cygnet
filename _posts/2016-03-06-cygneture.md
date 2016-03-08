@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Cygneture Chocolates
-datePublished: '2016-03-08T07:36:05.613Z'
-dateModified: '2016-03-08T07:36:04.750Z'
+datePublished: '2016-03-08T21:57:57.212Z'
+dateModified: '2016-03-08T20:27:37.344Z'
 title: Cygneture
 author: []
 sourcePath: _posts/2016-03-06-cygneture.md
