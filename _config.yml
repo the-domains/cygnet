@@ -1,6 +1,6 @@
 name: cygnet
 favicon: null
-layout_spectrum: 0.50036
+layout_spectrum: 0.25232
 typography_spectrum: 0.127467
 title: 'cygnet.online | all the things in Cygnet, Tasmania'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#918b8b'
     - '#cadad0'
   brandStrength: 0.017269
-  lightness: 0.5
+  lightness: 0.5625
   saturation: 0.1875
   rhythmicContrast: 1
 purpose:
