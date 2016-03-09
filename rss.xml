@@ -4,8 +4,15 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 12:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 12:19:13 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Duggans for precast concrete, premix concrete civil and earthworks and quarry resources - Duggans]]></title>
+            <description><![CDATA[<article><h1>Duggans for precast concrete, premix concrete civil and earthworks and quarry resources - Duggans</h1><p>Duggans is located at Cradoc in the Huon Valley, we offer a range of building and landscaping products and services to the Channel and Huon areas and beyond.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab50eae958c3c59e426098992b9a061d8774b5ee.jpg"></article>]]></description>
+            <link>http://www.duggans.com.au/</link>
+            <guid isPermaLink="false">05131fbd-1e2c-41e3-b0b6-f578a978204b</guid>
+            <pubDate>Wed, 09 Mar 2016 12:17:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Apple and PC Computer Repairs | Hobart, Kingston and Blackmans Bay]]></title>
             <description><![CDATA[<article><h1>Apple and PC Computer Repairs | Hobart, Kingston and Blackmans Bay</h1><p>Helpdesk Support for Apple, PC & Linux over the phone, via the Internet and Onsite. ph 0430506305 arrowkeytechnology.com.au Apple and PC Computer Repairs | Hobart, Kingston and Blackmans Bay</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.bom.gov.au/tas/forecasts/cygnet.shtml</link>
             <guid isPermaLink="false">bb6bf82f-dd0c-4e1e-89b2-b21bfa65ce98</guid>
             <pubDate>Sun, 06 Mar 2016 02:38:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cygnet Boat Ramp - MAST]]></title>
-            <description><![CDATA[<article><h1>Cygnet Boat Ramp - MAST</h1><p>Dual lane concrete boat ramp with adjacent walkway. All tide boat ramp</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/781fbbeecf6e1642981adbd6056af1b3e96e9c54.jpg"></article>]]></description>
-            <link>http://www.mast.tas.gov.au/facilities/cygnet-boat-ramp/</link>
-            <guid isPermaLink="false">f4d00248-b0b0-4139-871e-290128ad41ed</guid>
-            <pubDate>Sun, 06 Mar 2016 02:28:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
