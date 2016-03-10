@@ -4,8 +4,15 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 12:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 06:31:52 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home & Body Cygnet | Unique Shopping in Cygnet | Shoes | Bags | Gifts]]></title>
+            <description><![CDATA[<article><h1>Home & Body Cygnet | Unique Shopping in Cygnet | Shoes | Bags | Gifts</h1><p>Home & Body is a unique shop filled with a wide range of men's & ladies NAOT shoes, leather bags/wallets & other fashion accessories, plus work by Local Artists</p></article>]]></description>
+            <link>http://www.homebodycygnet.com.au/</link>
+            <guid isPermaLink="false">1205245d-694d-4521-b733-f018cc82c1c0</guid>
+            <pubDate>Thu, 10 Mar 2016 06:30:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Duggans for precast concrete, premix concrete civil and earthworks and quarry resources - Duggans]]></title>
             <description><![CDATA[<article><h1>Duggans for precast concrete, premix concrete civil and earthworks and quarry resources - Duggans</h1><p>Duggans is located at Cradoc in the Huon Valley, we offer a range of building and landscaping products and services to the Channel and Huon areas and beyond.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab50eae958c3c59e426098992b9a061d8774b5ee.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.cygnetsailing.org.au/Port_Cygnet_Sailing_Club/Welcome.html</link>
             <guid isPermaLink="false">1ec7b1c9-6a87-49f1-baf8-8ff8dcfba515</guid>
             <pubDate>Sun, 06 Mar 2016 02:40:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cygnet Forecast]]></title>
-            <description><![CDATA[<article><h1>Cygnet Forecast</h1><p>Cygnet Forecast from BOM</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad8f8e91668141791e81a0af427771af8fba40b5.png"></article>]]></description>
-            <link>http://www.bom.gov.au/tas/forecasts/cygnet.shtml</link>
-            <guid isPermaLink="false">bb6bf82f-dd0c-4e1e-89b2-b21bfa65ce98</guid>
-            <pubDate>Sun, 06 Mar 2016 02:38:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
