@@ -4,8 +4,15 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 22:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 22:43:18 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to cygnet.online</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31f66ec5e4a062810e519ba7920f2466a85adb36.jpg"></article>]]></description>
+            <link>http://cygnet.online/welcome/index.html</link>
+            <guid isPermaLink="false">06fbad94-519e-44ee-a29a-9d25d109279a</guid>
+            <pubDate>Thu, 10 Mar 2016 22:42:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#cygnet on Twitter]]></title>
             <description><![CDATA[<article><h1>#cygnet on Twitter</h1><p>The latest Tweets on #cygnet. Read what people are saying and join the conversation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46fb63332b75732e84ced05f5527162878c3e3b6.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://cygnetmarket.com.au/</link>
             <guid isPermaLink="false">398a65c4-26c0-4d40-a3a2-5a1b228d4161</guid>
             <pubDate>Sun, 06 Mar 2016 02:40:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pagan Cider | Tasmania Australia]]></title>
-            <description><![CDATA[<article><h1>Pagan Cider | Tasmania Australia</h1><p>Visit our cellar door 7891 Channel Highway, Cradoc, Tasmania Pure wizardry With its long apple-growing history and abundance of glorious fruit, Tasmania is the natural home of Pagan Cider. Blessed with clean air, rich alluvial soil, chilled foggy winters and long hours of summer sunshine, Tasmania's idyllic Huon Valley is an apple-growing heaven.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6148c273edeb0839afe380315cc7e8e05d6668d8.jpg"></article>]]></description>
-            <link>http://www.pagancider.com.au/</link>
-            <guid isPermaLink="false">cf8638b7-aba9-45b8-aa5f-c0e4f1c51d41</guid>
-            <pubDate>Tue, 08 Mar 2016 22:33:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
