@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +16,8 @@ keywords:
   - location
   - theboutiquevillage
 description: 'The latest Tweets on #cygnet. Read what people are saying and join the conversation.'
-datePublished: '2016-03-05T22:54:01.705Z'
-dateModified: '2016-03-05T22:53:50.475Z'
+datePublished: '2016-03-10T22:42:19.417Z'
+dateModified: '2016-03-06T02:39:19.375Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/media/CcpGEVpXIAAESGZ.jpg'
@@ -29,7 +29,7 @@ app_links:
     package: com.twitter.android
     namespace: google
     type: android
-title: '#cygnet'
+title: '#cygnet on Twitter'
 sourcePath: _posts/2016-03-05-the-latest-tweets-on-cygnet-read-what-people-are-saying-an.md
 published: true
 authors: []
