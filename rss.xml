@@ -4,8 +4,15 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 06:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 22:36:02 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tassie.online]]></title>
+            <description><![CDATA[<article><h1>tassie.online</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5d5b014deec3f601f8107b1b530600569331b0c.jpg"></article>]]></description>
+            <link>http://tassie.online/</link>
+            <guid isPermaLink="false">5cdc5dc6-9eaf-40a3-8f23-520d131b9dd3</guid>
+            <pubDate>Thu, 10 Mar 2016 22:35:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Southern Swan]]></title>
             <description><![CDATA[<article><h1>Southern Swan</h1><p>Anthroposophical and Homoeopathic Pharmacy..John Reed preparing medicines, sphagnis, creams by hand in small batches</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/600474942b1d2e670b128af46ca0bda587b5f05d.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.pagancider.com.au/</link>
             <guid isPermaLink="false">cf8638b7-aba9-45b8-aa5f-c0e4f1c51d41</guid>
             <pubDate>Tue, 08 Mar 2016 22:33:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Way to St James Cygnet]]></title>
-            <description><![CDATA[<article><h1>The Way to St James Cygnet</h1><p>Inspired by the famous Spanish El Camino of St James this two day pilgrim walk will take you through the scenic and peaceful Huon Valley to a celebration at the Spanish mission styled Church of St James, nestled in the heart of Cygnet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b15d77ffa4660ec454ec277d0ac357e4034e16d.jpg"></article>]]></description>
-            <link>http://www.waytostjames.com.au/</link>
-            <guid isPermaLink="false">eb089ce8-3b32-4ec6-b86e-d3bf6290caf0</guid>
-            <pubDate>Sun, 06 Mar 2016 02:42:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
