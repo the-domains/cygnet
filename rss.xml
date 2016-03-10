@@ -4,8 +4,15 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 06:31:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 06:32:27 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Southern Swan]]></title>
+            <description><![CDATA[<article><h1>Southern Swan</h1><p>Anthroposophical and Homoeopathic Pharmacy..John Reed preparing medicines, sphagnis, creams by hand in small batches</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/600474942b1d2e670b128af46ca0bda587b5f05d.png"></article>]]></description>
+            <link>http://www.southernswan.net.au/</link>
+            <guid isPermaLink="false">1453edf0-1a29-456b-bb6e-51c3cc7b5223</guid>
+            <pubDate>Thu, 10 Mar 2016 06:30:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home & Body Cygnet | Unique Shopping in Cygnet | Shoes | Bags | Gifts]]></title>
             <description><![CDATA[<article><h1>Home & Body Cygnet | Unique Shopping in Cygnet | Shoes | Bags | Gifts</h1><p>Home & Body is a unique shop filled with a wide range of men's & ladies NAOT shoes, leather bags/wallets & other fashion accessories, plus work by Local Artists</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.waytostjames.com.au/</link>
             <guid isPermaLink="false">eb089ce8-3b32-4ec6-b86e-d3bf6290caf0</guid>
             <pubDate>Sun, 06 Mar 2016 02:42:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Port Cygnet Sailing Club Tasmania]]></title>
-            <description><![CDATA[<article><h1>Port Cygnet Sailing Club Tasmania</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a756ddaaa656d93385d4592a4881b963da339baa.png"></article>]]></description>
-            <link>http://www.cygnetsailing.org.au/Port_Cygnet_Sailing_Club/Welcome.html</link>
-            <guid isPermaLink="false">1ec7b1c9-6a87-49f1-baf8-8ff8dcfba515</guid>
-            <pubDate>Sun, 06 Mar 2016 02:40:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
