@@ -4,7 +4,7 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 03:57:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 02:55:02 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to cygnet.online]]></title>
@@ -12,6 +12,13 @@
             <link>http://cygnet.online/welcome/index.html</link>
             <guid isPermaLink="false">06fbad94-519e-44ee-a29a-9d25d109279a</guid>
             <pubDate>Fri, 11 Mar 2016 01:37:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why you might want to become a Jedi Knight for this year's Census | Electronic Frontiers Australia]]></title>
+            <description><![CDATA[<article><h1>Why you might want to become a Jedi Knight for this year's Census | Electronic Frontiers Australia</h1><p>In the week before Christmas last year, the Australian Bureau of Statistics quietly trashed your privacy. We have only a few months to claim it back. In December 2015, the ABS announced its plans to collect and keep the name and address of every person in Australia, starting with the August 2016 census.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49aec85d7be2e4f974a1920508aa3c71a355ad63.png"></article>]]></description>
+            <link>https://www.efa.org.au/2016/03/23/jedi-census/</link>
+            <guid isPermaLink="false">8dd47a9b-492c-485c-8ea9-5bd3ec62c577</guid>
+            <pubDate>Fri, 01 Apr 2016 02:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lanique Design]]></title>
@@ -68,13 +75,6 @@
             <link>http://arrowkeytechnology.com.au/</link>
             <guid isPermaLink="false">88b86703-41c5-4174-8b85-a43a40d5cf63</guid>
             <pubDate>Wed, 09 Mar 2016 12:17:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Township Theme Project Cygnet Community Engagement Survey]]></title>
-            <description><![CDATA[<article><h1>Township Theme Project Cygnet Community Engagement Survey</h1><p>In conjunction with the Huon Valley Brand, the aim of this project is to develop a theme for Cygnet, Dover, Franklin, Geeveston and Huonville, ensuring the uniqueness of each settlement is reflected in the theme. The document will act as a guide for the theme of the town, whilst remaining flexible to respond to the communities needs over time.  Stakeholders representing the community participated in a community engagement workshop in October 2015. This workshop identified the strengths and weaknesses of the Cygnet, how Cygnet was perceived, visions for Cygnet and features/benefits of these visions.  Outcomes from the October 2015 workshop have been translated into the visual concepts in the draft theme book.  This survey contains options for you to vote on.  The results of this survey will determine the content of the theme book.  The final theme book will form the basis of design and communication within the township environment that can be applied to public assets, the streetscape and presentation elements that benefit both the community and visitors.  Implementation of these new designs will commence following Council approval, through a staged implementation process.</p></article>]]></description>
-            <link>https://www.surveymonkey.com/r/CygnetEngagement</link>
-            <guid isPermaLink="false">4cfddc72-5cc3-435f-99f5-b1aca0c7a37c</guid>
-            <pubDate>Wed, 09 Mar 2016 12:32:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
