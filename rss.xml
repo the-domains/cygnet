@@ -4,7 +4,7 @@
         <description><![CDATA[cygnet.online | all the things in Cygnet, Tasmania]]></description>
         <link>http://cygnet.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 02:55:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 03:01:59 GMT</lastBuildDate>
         <atom:link href="http://cygnet.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to cygnet.online]]></title>
@@ -12,6 +12,13 @@
             <link>http://cygnet.online/welcome/index.html</link>
             <guid isPermaLink="false">06fbad94-519e-44ee-a29a-9d25d109279a</guid>
             <pubDate>Fri, 11 Mar 2016 01:37:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Lotus Eaters Cafe]]></title>
+            <description><![CDATA[<article><h1>The Lotus Eaters Cafe</h1><p>The Lotus Eaters Cafe is a cafe in Cygnet, Tasmania specialising in fresh gourmet food using free range and organic products prepared daily.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb41ead53803e0eb5832f15a12569ad27debe00e.jpg"></article>]]></description>
+            <link>http://cygnet.online/the-lotus-eaters-cafe/index.html</link>
+            <guid isPermaLink="false">de8363f6-0032-49f8-95b0-96203bec680f</guid>
+            <pubDate>Fri, 01 Apr 2016 03:01:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why you might want to become a Jedi Knight for this year's Census | Electronic Frontiers Australia]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.duggans.com.au/</link>
             <guid isPermaLink="false">05131fbd-1e2c-41e3-b0b6-f578a978204b</guid>
             <pubDate>Wed, 09 Mar 2016 12:17:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple and PC Computer Repairs | Hobart, Kingston and Blackmans Bay]]></title>
-            <description><![CDATA[<article><h1>Apple and PC Computer Repairs | Hobart, Kingston and Blackmans Bay</h1><p>Helpdesk Support for Apple, PC & Linux over the phone, via the Internet and Onsite. ph 0430506305 arrowkeytechnology.com.au Apple and PC Computer Repairs | Hobart, Kingston and Blackmans Bay</p></article>]]></description>
-            <link>http://arrowkeytechnology.com.au/</link>
-            <guid isPermaLink="false">88b86703-41c5-4174-8b85-a43a40d5cf63</guid>
-            <pubDate>Wed, 09 Mar 2016 12:17:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
