@@ -16,20 +16,20 @@ keywords:
   - mail
   - cafe
 description: 'The Lotus Eaters Cafe is a cafe in Cygnet, Tasmania specialising in fresh gourmet food using free range and organic products prepared daily.'
-datePublished: '2016-04-01T03:01:25.726Z'
-dateModified: '2016-04-01T03:01:24.357Z'
+datePublished: '2016-04-01T03:02:26.634Z'
+dateModified: '2016-04-01T03:01:35.606Z'
 author: []
 related: []
 app_links: []
 title: The Lotus Eaters Cafe
+sourcePath: _posts/2016-04-01-the-lotus-eaters-cafe.md
+published: true
 authors: []
 publisher:
   name: The Lotus Eaters Cafe
   domain: thelotuseaterscafe.com.au
   url: 'http://thelotuseaterscafe.com.au'
   favicon: 'http://thelotuseaterscafe.com.au/wp-content/uploads/sites/13/2016/03/cropped-12238345_10153401214158402_1181631491879931063_o-192x192.jpg'
-sourcePath: _posts/2016-04-01-the-lotus-eaters-cafe.md
-published: true
 url: the-lotus-eaters-cafe/index.html
 _context: 'http://schema.org'
 _type: MediaObject
